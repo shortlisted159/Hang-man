@@ -14,5 +14,7 @@ You get Six chances to guess the given word correctly, before the man is hanged.
 
 
 
+
+
 ### Try it for yourself
 https://transcendent-nasturtium-411137.netlify.app
