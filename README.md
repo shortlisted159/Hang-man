@@ -4,7 +4,10 @@ This project exactly replicates the game.<br>
 You get Six chances to guess the given word correctly, before the man is hanged.
 
 ## Dependencies
+[![library- ReactJS](https://img.shields.io/static/v1?label=API&message=OPENAI&color=%235174EA)](https://reactjs.org)<br>
+[![dependency - Node.js](https://img.shields.io/static/v1?label=dependency&message=Node.js&color=%23EA5178)](https://nodejs.org/en/)<br>
 [![styling - CSS](https://img.shields.io/static/v1?label=styling&message=CSS&color=%23D8F32E)](https://web.dev/learn/css/)<br>
+[![language - Javascript](https://img.shields.io/static/v1?label=language&message=Javascript&color=%23F39C2E)](https://www.javascript.com/)<br>
 
 
 
