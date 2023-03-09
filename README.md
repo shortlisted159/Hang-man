@@ -9,6 +9,10 @@ You get Six chances to guess the given word correctly, before the man is hanged.
 [![styling - CSS](https://img.shields.io/static/v1?label=styling&message=CSS&color=%23D8F32E)](https://web.dev/learn/css/)<br>
 [![language - Javascript](https://img.shields.io/static/v1?label=language&message=Javascript&color=%23F39C2E)](https://www.javascript.com/)<br>
 
+### Here is how it looks
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/64829176/224033746-c531bed5-f730-41ee-98e5-7c632b342423.gif)
+
+
 
 
 
