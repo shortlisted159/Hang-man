@@ -1,7 +1,7 @@
 # Hangman
 The childhood nostalgia game that we all loved to play on pen and paper.<br>
 This project exactly replicates the game.<br>
-You get Six chances to guess the given word correctly, before the man is hanged.
+You get Six chances to guess the given word correctly, before the man gets hanged.
 
 ## Dependencies
 [![library- ReactJS](https://img.shields.io/static/v1?label=API&message=OPENAI&color=%235174EA)](https://reactjs.org)<br>
